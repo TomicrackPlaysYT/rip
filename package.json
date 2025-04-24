@@ -1,0 +1,28 @@
+{
+  "name": "nymphus-server-wth",
+  "version": "0.1.0",
+  "description": "what do you want?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "handlebars": "^4.7.8",
+    "msgpackr": "^1.11.0",
+    "ws": "^8.18.0",
+    "web-streams-polyfill": "^4.0.0",
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
